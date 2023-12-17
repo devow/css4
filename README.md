@@ -1,12 +1,13 @@
 # English
 
-## Responsive Layout for the Discord Website with CSS
 
-A responsive layout inspired by the Discord website, an interactive communication platform, has been developed. The content's semantics have been organized using HTML in sections such as header, main content, and footer.
+## Responsive Layout for the Discord Website using CSS
 
-The primary goal was to ensure a user-friendly experience on mobile devices while also adapting the design for larger screens, such as desktops.
+This is a responsive layout inspired by the Discord website, an interactive communication platform. The content has been semantically organized using HTML into sections such as the header, main content, and footer.
 
-To achieve this adaptability, media queries were employed, ensuring visual consistency on the page even when resized.
+The main objective was to ensure a user-friendly experience on mobile devices while also adapting the design for larger screens, such as desktops.
+
+To achieve this adaptability, media queries were implemented to ensure visual consistency on the page, even when resized.
 
 ---
 
